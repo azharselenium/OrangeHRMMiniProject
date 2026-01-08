@@ -1,0 +1,11 @@
+#Ignore
+/reports/
+/screenshots/
+/test-output/
+/logs/
+*.class
+*.log
+.idea/
+.vscode/
+.classpath
+/target/
